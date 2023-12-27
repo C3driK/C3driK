@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Olufemi
-- I’m looking to collaborate on python, cloud/devops projects
+- Cloud/Devops Engineer
+- Python Developer
 - 📫 How to reach me? shoot me an email - olufemiphilips@outlook.com
 
 <!---
