@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olufemi
 - Cloud/Devops Engineer
-- Python Developer
+- Full Stack Developer (Javascript | PHP)
 - 📫 How to reach me? shoot me an email - olufemiphilips@outlook.com
 
 <!---
