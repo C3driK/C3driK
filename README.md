@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Olufemi
 - Cloud/Devops Engineer
 - Full Stack Developer (Javascript | PHP)
-- 📫 How to reach me? shoot me an email - olufemiphilips@outlook.com
 
 <!---
 C3driK/C3driK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
