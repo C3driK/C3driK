@@ -1,4 +1,4 @@
-- I’m Olufemi, transistioned from a legal background to Tech.
+- I’m Olufemi, transitioned from a legal background to Tech.
 - Currently Cloud/Devops Engineer (AWS)
 - Exploring Full Stack Development (Javascript | PHP)
 
